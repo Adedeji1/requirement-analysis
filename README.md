@@ -41,3 +41,17 @@ Identifying and fixing issues early in the planning phase is far cheaper than du
 
 **Improves Project Success**
 Well-defined requirements help teams stay on track, deliver on time, and meet user expectations.
+
+
+
+# Key Activities in Requirement Analysis
+**Requirement Gathering:** Collecting initial needs from stakeholders and users.
+
+**Requirement Elicitation:** Engaging with stakeholders to uncover hidden or unclear needs.
+
+**Requirement Documentation:** Writing down the requirements clearly for reference and communication.
+
+**Requirement Analysis and Modeling:** Organizing and refining requirements using models or diagrams.
+
+**Requirement Validation:** Checking that requirements are complete, correct, and aligned with project goals.
+
