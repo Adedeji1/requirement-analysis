@@ -55,3 +55,30 @@ Well-defined requirements help teams stay on track, deliver on time, and meet us
 
 **Requirement Validation:** Checking that requirements are complete, correct, and aligned with project goals.
 
+
+
+## Types of Requirements
+
+###  Functional Requirements
+
+**Definition:**  
+Functional requirements describe **what the system should do** — the specific tasks, features, or operations the software must perform.
+
+**Examples (Booking Management System):**
+- Users can **create**, **view**, **update**, and **cancel** bookings.
+- The system sends **confirmation emails** upon successful bookings.
+- Admins can **manage user accounts** and **generate booking reports**.
+- Users can **search for available slots** based on date and location.
+
+---
+
+### Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements define **how the system performs** — focusing on quality attributes like performance, security, and usability.
+
+**Examples (Booking Management System):**
+- The system should respond to user actions **within 2 seconds**.
+- All booking data must be **encrypted** during transmission.
+- The system should maintain **99.9% uptime** throughout the year.
+- The user interface must be **accessible** to users with visual impairments.
