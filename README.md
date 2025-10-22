@@ -82,3 +82,20 @@ Non-functional requirements define **how the system performs** — focusing on q
 - All booking data must be **encrypted** during transmission.
 - The system should maintain **99.9% uptime** throughout the year.
 - The user interface must be **accessible** to users with visual impairments.
+
+  ## Use Case Diagrams
+**What is a Use Case Diagram?**  
+Use Case Diagrams are part of the Unified Modeling Language (UML) and are used in **requirement analysis** to visually represent how users (actors) interact with a system. They help identify the system’s functionality and the different user roles involved.
+
+### 🔍 Benefits of Use Case Diagrams:
+- Clarify system functionality and scope.
+- Improve communication between stakeholders and developers.
+- Identify all possible user interactions early in the SDLC.
+- Aid in designing test cases and validating requirements.
+
+---
+
+### Booking System – Use Case Diagram
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
+
